@@ -1,7 +1,5 @@
-<a href="https://github.com/KafeisM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KafeisM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KafeisM&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafeisM&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KafeisM&layout=compact&theme=blueberry)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
