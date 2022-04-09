@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafeisM&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KafeisM&show_icons=true&theme=blueberry&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KafeisM&layout=compact&theme=blueberry)
 
 <div style="display: inline_block"><br>
