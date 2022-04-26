@@ -8,14 +8,13 @@
   <a href="https://github.com/KafeisM">
     </div>
 
-Lenguages and Tools:
+## LANGUAGES AND TOOLS
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
 
- ##
- 
+
 <div> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
