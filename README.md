@@ -10,11 +10,15 @@
 
 ## LANGUAGES AND TOOLS
 <div>
-<a href="https://www.python.org" rel="nofollow"> 
+<a href="https://www.java.com/es/download/help/whatis_java.html" rel="nofollow"> 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<a href="https://www.arduino.cc/en/about" rel="nofollow"> 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<a href="https://www.gnu.org/software/bash/"> 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+<a href="https://www.linux.org/"> 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<a href="https://code.visualstudio.com/"> 
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   
   
