@@ -1,12 +1,4 @@
 
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jordi-florit-ensenyat-aa876b259/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-
 ###
 
 <div align="center">
@@ -51,4 +43,9 @@ Me llamo <b>Jordi Florit Ensenyat</b> y soy graduado en Ingeniería Informática
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jordi-florit-ensenyat-aa876b259/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 
